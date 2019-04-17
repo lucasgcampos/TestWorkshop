@@ -52,5 +52,4 @@ class PasswordValidatorTest {
         assertFalse(result)
     }
 
-
 }
